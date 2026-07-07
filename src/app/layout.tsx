@@ -4,6 +4,9 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'MR. FEAST',
   description: 'Albanian. Macedonian. Sentinel. Eater.',
+  icons: {
+    icon: '/mrfeast-transparent-fix.png',
+  },
 }
 
 export default function RootLayout({
