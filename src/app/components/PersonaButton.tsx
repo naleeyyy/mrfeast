@@ -33,7 +33,8 @@ export default function PersonaButton() {
         Persona
       </p>
       <p className="text-sm mb-5" style={{ color: '#aaa' }}>
-        Convince him Persona is bad.
+        Convince him Persona is bad.<br/>
+        <span style={{ color: '#555', fontSize: '0.75rem' }}>he likes it. this will not go well for you.</span>
       </p>
 
       {state === 'idle' && (

@@ -124,10 +124,10 @@ export default function Home() {
               is already over.
             </p>
             <p className="text-lg leading-relaxed mb-8 max-w-2xl" style={{ color: '#aaa' }}>
-              Outside of Valorant, he occasionally ventures into other games. He&apos;s a fan of
-              the Persona series, although he&apos;ll happily spend an hour explaining how it could
-              have been even better if it leaned harder into the mechanics he enjoys. Whether
-              anyone asked is another question entirely.
+              Outside of Valorant, he&apos;s a genuine fan of the Persona series — he&apos;ll tell
+              you it&apos;s good. He will also then spend forty-five minutes explaining exactly
+              which mechanics are missing and how they would make it even better. Both things
+              are true simultaneously. Whether anyone asked is another question entirely.
             </p>
             <BaitButton />
           </FadeIn>

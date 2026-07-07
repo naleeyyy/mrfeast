@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react'
 const roasts = [
   { quote: 'He once ate a kebab before eating a different kebab. He called it a starter.', author: 'a concerned friend' },
   { quote: 'The only thing higher than his Valorant rank is his cholesterol.', author: 'the squad' },
-  { quote: 'He says Persona is lacking. It\'s lacking fried food, apparently.', author: 'everyone' },
+  { quote: 'He loves Persona. He will also explain for an hour how it could be better. Loving it and critiquing it are not in conflict. He has a list.', author: 'everyone' },
   { quote: 'I asked if he\'d eaten today. He said yes, twice. It was 9am.', author: 'witness' },
   { quote: 'Five litres of Coke Zero and he still complains he\'s thirsty.', author: 'his doctor, probably' },
   { quote: '"Just bait me." Last words before disappearing for 40 seconds and winning the round.', author: 'his Valorant team' },
