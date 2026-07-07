@@ -45,3 +45,15 @@ body {
 .blink {
   animation: blink 1s step-end infinite;
 }
+
+@keyframes food-fly {
+  0%   { transform: scale(0) rotate(-20deg); opacity: 0; }
+  30%  { transform: scale(1.4) rotate(10deg); opacity: 1; }
+  70%  { transform: scale(1.1) rotate(-5deg); opacity: 1; }
+  100% { transform: scale(0.5) rotate(20deg) translateY(-30px); opacity: 0; }
+}
+
+.food-fly {
+  animation: food-fly 0.9s ease forwards;
+  pointer-events: none;
+}
