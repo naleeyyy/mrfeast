@@ -10,6 +10,8 @@ import Clock from './components/Clock'
 import FeedMrFeast from './components/FeedMrFeast'
 import FoodCombo from './components/FoodCombo'
 import LurkTip from './components/LurkTip'
+import PersonaButton from './components/PersonaButton'
+import PoliticalWidget from './components/PoliticalWidget'
 
 const stats = [
   { label: 'RANK',         value: 'Ascendant / Immortal', sub: 'Sentinel Lurker · Valorant',          icon: '🎯' },
@@ -178,6 +180,10 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
             <FoodCombo />
             <LurkTip />
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
+            <PersonaButton />
+            <PoliticalWidget />
           </div>
           <FeedMrFeast />
         </FadeIn>
