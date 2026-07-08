@@ -12,6 +12,7 @@ import FoodCombo from './components/FoodCombo'
 import LurkTip from './components/LurkTip'
 import PersonaButton from './components/PersonaButton'
 import PoliticalWidget from './components/PoliticalWidget'
+import InstallPWA from './components/InstallPWA'
 
 const stats = [
   { label: 'RANK',         value: 'Ascendant / Immortal', sub: 'Sentinel Lurker · Valorant',          icon: '🎯' },
@@ -70,7 +71,10 @@ export default function Home() {
           </div>
           {/* Live widgets row */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <CokeCounter />
+            <div>
+              <CokeCounter />
+              <InstallPWA />
+            </div>
             <WhatIsDoing />
           </div>
         </FadeIn>

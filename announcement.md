@@ -1,17 +1,13 @@
 @everyone
 
-🍖 **THE MR. FEAST MUKBANG — TONIGHT 19:00 CEST** 🍖
+🐾 **WE BUILT MR. FEAST AS A DESKTOP PET** 🐾
 
-We built a website for the man himself. Go check it out.
+He walks around your screen. You can feed him. You cannot stop him.
 
-🌐 **https://mrfeast.online**
+Unzip, run `MrFeast Pet.exe`. He appears on your desktop and starts walking immediately. No setup. No explanation.
 
-It has his stats. His lore. A live Coke Zero consumption tracker. A cholesterol meter. You can feed him food and watch his reaction deteriorate in real time. You can try to convince him Persona is bad. It will fail.
+He gets hungry. He needs Coke Zero. His stats decay while you ignore him. Left click to throw food at him. Right click for options. If you neglect him long enough he will send you a notification.
 
-Tonight at **19:00 CEST**, he sits down in front of a camera and eats. Not for sustenance. Not for health. For **art**.
+His health bars turn red. That's on you.
 
-MrFeast — sentinel lurker, walking cardiovascular event, the most left-wing person in any room — will be consuming things that would concern a doctor, a nutritionist, and probably the government.
-
-You are invited to witness it.
-
-He eats. You watch. History is made.
+MrFeast — sentinel lurker, walking cardiovascular event, the most left-wing person in any room — now lives on your taskbar.
